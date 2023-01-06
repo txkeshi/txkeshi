@@ -1,12 +1,8 @@
 ### 
 
-- 🔭 I am currently working on: Lua and JS
-- 🌱 I am currently studying CyberSecurity
-- 👯 I want to collaborate on ...
-- 🤔 I 'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 - How to contact me:Takeshi#1512
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m @txkeshi , cybersecurity student (1rd grade )
+- 👋 Привет, я txkeshi, студент 1-го курса специальности "Кибербезопасность"
+- 👀 I’m interested in game hacking and Anti Hack
+- 🌱 I’m currently learning Lua And JS
 -->
 ###

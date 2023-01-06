@@ -1,9 +1,4 @@
-### Hello everyone 👋
-
-<!--
-****takeshi/takeshi** is a repository of _special_ ✨ because its `README.md ` (this file) will appear in your GitHub profile.
-
-Here are some ideas to help you get started:
+### 
 
 - 🔭 I am currently working on: Lua and JS
 - 🌱 I am currently studying CyberSecurity
@@ -14,3 +9,4 @@ Here are some ideas to help you get started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+###
